@@ -1,4 +1,4 @@
-### Hi there, I'm [Tyler Cox](tyler-a-cox.github.io)
+### Hi there, I'm [Tyler Cox](https://tyler-a-cox.github.io)
 
 <!--
 **tyler-a-cox/tyler-a-cox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
